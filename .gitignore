@@ -1,3 +1,11 @@
 Makefile
 config.log
 config.status
+*.d
+*.o
+*.a
+examples/woscclient
+examples/woscserver
+examples/woscstreamingclient
+examples/woscstreamingserver
+tests/patternmatch
