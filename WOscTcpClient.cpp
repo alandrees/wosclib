@@ -9,6 +9,7 @@
 #if OS_IS_LINUX == 1 || OS_IS_MACOSX == 1 || OS_IS_CYGWIN == 1
 
 #include <fcntl.h>
+#include <unistd.h>
 #include <sys/socket.h>
 
 
